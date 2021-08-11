@@ -1,2 +1,2 @@
-# cute_girl
+# cute girl
 My first discord bot made in c#
