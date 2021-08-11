@@ -18,7 +18,6 @@ namespace cute_girl
         {
             var bot = new bot();
             bot.RunAsync().GetAwaiter().GetResult();
-            Console.Write("hello");
         }
     }
 }
